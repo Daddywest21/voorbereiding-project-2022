@@ -161,7 +161,7 @@ header+nav {
 }
 
 main {
-    background-color: navajowhite;
+    background-color: burlywood;
 }
 
 /* aside */
@@ -278,7 +278,6 @@ footer li+li:before {
         float: right;
         margin-left: 1rem;
         width: 16rem;
-        background-color: burlywood;
     }
 
     header {
